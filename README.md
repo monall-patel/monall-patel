@@ -1,19 +1,15 @@
-<!-- =======================
-   MONAL PATEL — GITHUB PROFILE
-   Premium • Research-Driven • Secure Systems
-======================== -->
 
 <h1 align="center">Monal Patel</h1>
-<h3 align="center">Full-Stack Engineer • Secure Systems Architect • Research-Driven Developer</h3>
+<h3 align="center">AI/ML Engineer • Secure Systems Architect • Research-Driven Developer</h3>
 
 <p align="center">
   Building <b>secure, high-integrity, performance-critical systems</b> with precision, discipline, and purpose.
 </p>
 
 <p align="center">
-  <a href="mailto:monalpatel.dev@gmail.com">📩 Email</a> •
-  <a href="https://www.linkedin.com/">🔗 LinkedIn</a> •
-  <a href="https://github.com/monalpatel">💻 GitHub</a>
+  <a href="monalpatoliya@gmail.com">📩 Email</a> •
+  <a href="https://">🔗 www.linkedin.com/in/monal-patoliya</a> •
+  <a href="https://github.com/monall-patel">💻 GitHub</a>
 </p>
 
 ---
