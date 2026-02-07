@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="monalpatoliya@gmail.com">📩 Email</a> •
-  <a href="https://">🔗 www.linkedin.com/in/monal-patoliya</a> •
+  <a href="www.linkedin.com/in/monal-patoliya">🔗 Linkedin</a> •
   <a href="https://github.com/monall-patel">💻 GitHub</a>
 </p>
 
