@@ -58,12 +58,13 @@ I don’t chase trends —
 ---
 
 ## 📈 Technical Proficiency
-
+```text
 AI & Machine Learning        ████████████████████░ 91%
 Python / Backend             ██████████████████░░ 88%
 React / Frontend             █████████████████░░░ 85%
 Database Management          ████████████████░░░░ 80%
 Cloud Architecture           ███████████████░░░░░ 75%
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monal-patoliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monalpatoliya@gmail.com) 
