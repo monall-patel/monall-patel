@@ -59,7 +59,6 @@ I don’t chase trends —
 
 ## 📈 Technical Proficiency
 
-```text
 AI & Machine Learning        ████████████████████░ 91%
 Python / Backend             ██████████████████░░ 88%
 React / Frontend             █████████████████░░░ 85%
@@ -76,9 +75,13 @@ Cloud Architecture           ███████████████░░
 ![](https://nirzak-streak-stats.vercel.app/?user=monall-patel&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monall-patel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=monall-patel&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
   <i>Precision over noise. Validation over assumption. Engineering over hype.</i>
